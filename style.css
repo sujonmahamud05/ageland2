@@ -418,7 +418,7 @@ header {
 
 /*--newsletter-section--*/
 .news-section {
-  background-image: url(/img/ne-bg.jpg);
+  background-image: url(img/ne-bg.jpg);
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
